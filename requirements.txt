@@ -2,5 +2,5 @@ requests
 rsa
 pytz
 python-dateutil
-chardet
 pre-commit
+chardet
