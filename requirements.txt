@@ -3,3 +3,4 @@ rsa
 pytz
 python-dateutil
 chardet
+pre-commit
